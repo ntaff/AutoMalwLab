@@ -1,0 +1,890 @@
+[
+    {
+        "Name":  "accesschk.exe",
+        "Length":  "792208",
+        "LastWriteTime":  "\/Date(1511279280000)\/",
+        "Updated":  "21/11/2017"
+    },
+    {
+        "Name":  "accesschk64.exe",
+        "Length":  "409760",
+        "LastWriteTime":  "\/Date(1511279280000)\/",
+        "Updated":  "21/11/2017"
+    },
+    {
+        "Name":  "AccessEnum.exe",
+        "Length":  "174968",
+        "LastWriteTime":  "\/Date(1162382760000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "AdExplorer.chm",
+        "Length":  "50379",
+        "LastWriteTime":  "\/Date(1184210760000)\/",
+        "Updated":  "12/07/2007"
+    },
+    {
+        "Name":  "ADExplorer.exe",
+        "Length":  "479832",
+        "LastWriteTime":  "\/Date(1352884920000)\/",
+        "Updated":  "14/11/2012"
+    },
+    {
+        "Name":  "ADInsight.chm",
+        "Length":  "401616",
+        "LastWriteTime":  "\/Date(1445901180000)\/",
+        "Updated":  "27/10/2015"
+    },
+    {
+        "Name":  "ADInsight.exe",
+        "Length":  "2425496",
+        "LastWriteTime":  "\/Date(1445901180000)\/",
+        "Updated":  "27/10/2015"
+    },
+    {
+        "Name":  "adrestore.exe",
+        "Length":  "150328",
+        "LastWriteTime":  "\/Date(1162382700000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "Autologon.exe",
+        "Length":  "138920",
+        "LastWriteTime":  "\/Date(1472260500000)\/",
+        "Updated":  "27/08/2016"
+    },
+    {
+        "Name":  "autoruns.chm",
+        "Length":  "50512",
+        "LastWriteTime":  "\/Date(1561762320000)\/",
+        "Updated":  "29/06/2019"
+    },
+    {
+        "Name":  "autoruns.exe",
+        "Length":  "761656",
+        "LastWriteTime":  "\/Date(1561762320000)\/",
+        "Updated":  "29/06/2019"
+    },
+    {
+        "Name":  "Autoruns64.dll",
+        "Length":  "757328",
+        "LastWriteTime":  "\/Date(1561762380000)\/",
+        "Updated":  "29/06/2019"
+    },
+    {
+        "Name":  "autorunsc.exe",
+        "Length":  "680016",
+        "LastWriteTime":  "\/Date(1561762380000)\/",
+        "Updated":  "29/06/2019"
+    },
+    {
+        "Name":  "autorunsc64.exe",
+        "Length":  "776480",
+        "LastWriteTime":  "\/Date(1561762380000)\/",
+        "Updated":  "29/06/2019"
+    },
+    {
+        "Name":  "Bginfo.exe",
+        "Length":  "3353464",
+        "LastWriteTime":  "\/Date(1569223320000)\/",
+        "Updated":  "23/09/2019"
+    },
+    {
+        "Name":  "Bginfo64.exe",
+        "Length":  "4601208",
+        "LastWriteTime":  "\/Date(1569223320000)\/",
+        "Updated":  "23/09/2019"
+    },
+    {
+        "Name":  "Cacheset.exe",
+        "Length":  "154424",
+        "LastWriteTime":  "\/Date(1162382760000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "Clockres.exe",
+        "Length":  "139944",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Clockres64.exe",
+        "Length":  "154792",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Contig.exe",
+        "Length":  "253600",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Contig64.exe",
+        "Length":  "268960",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Coreinfo.exe",
+        "Length":  "892088",
+        "LastWriteTime":  "\/Date(1408382940000)\/",
+        "Updated":  "18/08/2014"
+    },
+    {
+        "Name":  "CPUSTRES.EXE",
+        "Length":  "2181688",
+        "LastWriteTime":  "\/Date(1553511240000)\/",
+        "Updated":  "25/03/2019"
+    },
+    {
+        "Name":  "CPUSTRES64.EXE",
+        "Length":  "2862648",
+        "LastWriteTime":  "\/Date(1553511180000)\/",
+        "Updated":  "25/03/2019"
+    },
+    {
+        "Name":  "ctrl2cap.amd.sys",
+        "Length":  "10104",
+        "LastWriteTime":  "\/Date(1159369440000)\/",
+        "Updated":  "27/09/2006"
+    },
+    {
+        "Name":  "ctrl2cap.exe",
+        "Length":  "150328",
+        "LastWriteTime":  "\/Date(1162382700000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "ctrl2cap.nt4.sys",
+        "Length":  "2864",
+        "LastWriteTime":  "\/Date(943201200000)\/",
+        "Updated":  "21/11/1999"
+    },
+    {
+        "Name":  "ctrl2cap.nt5.sys",
+        "Length":  "2832",
+        "LastWriteTime":  "\/Date(943206360000)\/",
+        "Updated":  "21/11/1999"
+    },
+    {
+        "Name":  "dbgview.chm",
+        "Length":  "68539",
+        "LastWriteTime":  "\/Date(1560288060000)\/",
+        "Updated":  "11/06/2019"
+    },
+    {
+        "Name":  "Dbgview.exe",
+        "Length":  "914992",
+        "LastWriteTime":  "\/Date(1560288060000)\/",
+        "Updated":  "11/06/2019"
+    },
+    {
+        "Name":  "Desktops.exe",
+        "Length":  "116824",
+        "LastWriteTime":  "\/Date(1350487680000)\/",
+        "Updated":  "17/10/2012"
+    },
+    {
+        "Name":  "Disk2vhd.chm",
+        "Length":  "40717",
+        "LastWriteTime":  "\/Date(1387277160000)\/",
+        "Updated":  "17/12/2013"
+    },
+    {
+        "Name":  "disk2vhd.exe",
+        "Length":  "7134400",
+        "LastWriteTime":  "\/Date(1390223760000)\/",
+        "Updated":  "20/01/2014"
+    },
+    {
+        "Name":  "diskext.exe",
+        "Length":  "143008",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "diskext64.exe",
+        "Length":  "158376",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Diskmon.exe",
+        "Length":  "224056",
+        "LastWriteTime":  "\/Date(1162382760000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "DISKMON.HLP",
+        "Length":  "9519",
+        "LastWriteTime":  "\/Date(1070872800000)\/",
+        "Updated":  "08/12/2003"
+    },
+    {
+        "Name":  "DiskView.exe",
+        "Length":  "580984",
+        "LastWriteTime":  "\/Date(1269432000000)\/",
+        "Updated":  "24/03/2010"
+    },
+    {
+        "Name":  "DMON.SYS",
+        "Length":  "11728",
+        "LastWriteTime":  "\/Date(939901500000)\/",
+        "Updated":  "14/10/1999"
+    },
+    {
+        "Name":  "du.exe",
+        "Length":  "169072",
+        "LastWriteTime":  "\/Date(1518553560000)\/",
+        "Updated":  "13/02/2018"
+    },
+    {
+        "Name":  "du64.exe",
+        "Length":  "191616",
+        "LastWriteTime":  "\/Date(1518553560000)\/",
+        "Updated":  "13/02/2018"
+    },
+    {
+        "Name":  "efsdump.exe",
+        "Length":  "146232",
+        "LastWriteTime":  "\/Date(1432081440000)\/",
+        "Updated":  "20/05/2015"
+    },
+    {
+        "Name":  "Eula.txt",
+        "Length":  "7005",
+        "LastWriteTime":  "\/Date(1154068320000)\/",
+        "Updated":  "28/07/2006"
+    },
+    {
+        "Name":  "FindLinks.exe",
+        "Length":  "147112",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "FindLinks64.exe",
+        "Length":  "169136",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "handle.exe",
+        "Length":  "1074224",
+        "LastWriteTime":  "\/Date(1560524940000)\/",
+        "Updated":  "14/06/2019"
+    },
+    {
+        "Name":  "handle64.exe",
+        "Length":  "605952",
+        "LastWriteTime":  "\/Date(1560524940000)\/",
+        "Updated":  "14/06/2019"
+    },
+    {
+        "Name":  "healthmonitoring.html",
+        "Length":  "16",
+        "LastWriteTime":  "\/Date(1226981040000)\/",
+        "Updated":  "18/11/2008"
+    },
+    {
+        "Name":  "hex2dec.exe",
+        "Length":  "150176",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "hex2dec64.exe",
+        "Length":  "164520",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "junction.exe",
+        "Length":  "216736",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "junction64.exe",
+        "Length":  "236200",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "ldmdump.exe",
+        "Length":  "154424",
+        "LastWriteTime":  "\/Date(1162382760000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "Listdlls.exe",
+        "Length":  "424096",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Listdlls64.exe",
+        "Length":  "220336",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "livekd.exe",
+        "Length":  "641184",
+        "LastWriteTime":  "\/Date(1494901980000)\/",
+        "Updated":  "16/05/2017"
+    },
+    {
+        "Name":  "livekd64.exe",
+        "Length":  "418976",
+        "LastWriteTime":  "\/Date(1494901980000)\/",
+        "Updated":  "16/05/2017"
+    },
+    {
+        "Name":  "LoadOrd.exe",
+        "Length":  "141472",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "LoadOrd64.exe",
+        "Length":  "156840",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "LoadOrdC.exe",
+        "Length":  "173216",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "LoadOrdC64.exe",
+        "Length":  "188584",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "logonsessions.exe",
+        "Length":  "224952",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "logonsessions64.exe",
+        "Length":  "249536",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "movefile.exe",
+        "Length":  "139936",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "movefile64.exe",
+        "Length":  "154792",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "notmyfault.exe",
+        "Length":  "516664",
+        "LastWriteTime":  "\/Date(1560524940000)\/",
+        "Updated":  "14/06/2019"
+    },
+    {
+        "Name":  "notmyfault64.exe",
+        "Length":  "652048",
+        "LastWriteTime":  "\/Date(1560524940000)\/",
+        "Updated":  "14/06/2019"
+    },
+    {
+        "Name":  "notmyfaultc.exe",
+        "Length":  "514320",
+        "LastWriteTime":  "\/Date(1560524940000)\/",
+        "Updated":  "14/06/2019"
+    },
+    {
+        "Name":  "notmyfaultc64.exe",
+        "Length":  "649272",
+        "LastWriteTime":  "\/Date(1560524940000)\/",
+        "Updated":  "14/06/2019"
+    },
+    {
+        "Name":  "ntfsinfo.exe",
+        "Length":  "139432",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "ntfsinfo64.exe",
+        "Length":  "158896",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "pagedfrg.exe",
+        "Length":  "215928",
+        "LastWriteTime":  "\/Date(1162382760000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "pagedfrg.hlp",
+        "Length":  "8419",
+        "LastWriteTime":  "\/Date(964371480000)\/",
+        "Updated":  "23/07/2000"
+    },
+    {
+        "Name":  "pendmoves.exe",
+        "Length":  "141480",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "pendmoves64.exe",
+        "Length":  "156336",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "pipelist.exe",
+        "Length":  "213160",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "pipelist64.exe",
+        "Length":  "234160",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "PORTMON.CNT",
+        "Length":  "422",
+        "LastWriteTime":  "\/Date(933341280000)\/",
+        "Updated":  "30/07/1999"
+    },
+    {
+        "Name":  "portmon.exe",
+        "Length":  "451392",
+        "LastWriteTime":  "\/Date(1326468900000)\/",
+        "Updated":  "13/01/2012"
+    },
+    {
+        "Name":  "PORTMON.HLP",
+        "Length":  "43428",
+        "LastWriteTime":  "\/Date(949303200000)\/",
+        "Updated":  "31/01/2000"
+    },
+    {
+        "Name":  "procdump.exe",
+        "Length":  "651424",
+        "LastWriteTime":  "\/Date(1494901980000)\/",
+        "Updated":  "16/05/2017"
+    },
+    {
+        "Name":  "procexp.chm",
+        "Length":  "72154",
+        "LastWriteTime":  "\/Date(1576251840000)\/",
+        "Updated":  "13/12/2019"
+    },
+    {
+        "Name":  "procexp.exe",
+        "Length":  "2798456",
+        "LastWriteTime":  "\/Date(1576251840000)\/",
+        "Updated":  "13/12/2019"
+    },
+    {
+        "Name":  "procmon.chm",
+        "Length":  "63582",
+        "LastWriteTime":  "\/Date(1553610120000)\/",
+        "Updated":  "26/03/2019"
+    },
+    {
+        "Name":  "Procmon.exe",
+        "Length":  "2181504",
+        "LastWriteTime":  "\/Date(1576010520000)\/",
+        "Updated":  "10/12/2019"
+    },
+    {
+        "Name":  "psexec.exe",
+        "Length":  "339096",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "psfile.exe",
+        "Length":  "149664",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "psfile64.exe",
+        "Length":  "168608",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "psgetsid.exe",
+        "Length":  "297104",
+        "LastWriteTime":  "\/Date(1530812820000)\/",
+        "Updated":  "05/07/2018"
+    },
+    {
+        "Name":  "PsGetsid64.exe",
+        "Length":  "329880",
+        "LastWriteTime":  "\/Date(1530812820000)\/",
+        "Updated":  "05/07/2018"
+    },
+    {
+        "Name":  "Psinfo.exe",
+        "Length":  "313496",
+        "LastWriteTime":  "\/Date(1467761340000)\/",
+        "Updated":  "06/07/2016"
+    },
+    {
+        "Name":  "PsInfo64.exe",
+        "Length":  "351904",
+        "LastWriteTime":  "\/Date(1467761340000)\/",
+        "Updated":  "06/07/2016"
+    },
+    {
+        "Name":  "pskill.exe",
+        "Length":  "284320",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "pskill64.exe",
+        "Length":  "318624",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "pslist.exe",
+        "Length":  "178848",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "pslist64.exe",
+        "Length":  "202400",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "psloggedon.exe",
+        "Length":  "151728",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "PsLoggedon64.exe",
+        "Length":  "170160",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "psloglist.exe",
+        "Length":  "444984",
+        "LastWriteTime":  "\/Date(1551804960000)\/",
+        "Updated":  "05/03/2019"
+    },
+    {
+        "Name":  "psloglist64.exe",
+        "Length":  "579128",
+        "LastWriteTime":  "\/Date(1551804960000)\/",
+        "Updated":  "05/03/2019"
+    },
+    {
+        "Name":  "pspasswd.exe",
+        "Length":  "149664",
+        "LastWriteTime":  "\/Date(1467761340000)\/",
+        "Updated":  "06/07/2016"
+    },
+    {
+        "Name":  "pspasswd64.exe",
+        "Length":  "168616",
+        "LastWriteTime":  "\/Date(1467761340000)\/",
+        "Updated":  "06/07/2016"
+    },
+    {
+        "Name":  "psping.exe",
+        "Length":  "255648",
+        "LastWriteTime":  "\/Date(1467454080000)\/",
+        "Updated":  "02/07/2016"
+    },
+    {
+        "Name":  "psping64.exe",
+        "Length":  "293032",
+        "LastWriteTime":  "\/Date(1467454080000)\/",
+        "Updated":  "02/07/2016"
+    },
+    {
+        "Name":  "psservice.exe",
+        "Length":  "188584",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "PsService64.exe",
+        "Length":  "210608",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "psshutdown.exe",
+        "Length":  "207664",
+        "LastWriteTime":  "\/Date(1165247580000)\/",
+        "Updated":  "04/12/2006"
+    },
+    {
+        "Name":  "pssuspend.exe",
+        "Length":  "289448",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "pssuspend64.exe",
+        "Length":  "321704",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Pstools.chm",
+        "Length":  "66582",
+        "LastWriteTime":  "\/Date(1349072580000)\/",
+        "Updated":  "01/10/2012"
+    },
+    {
+        "Name":  "psversion.txt",
+        "Length":  "39",
+        "LastWriteTime":  "\/Date(1194333420000)\/",
+        "Updated":  "06/11/2007"
+    },
+    {
+        "Name":  "RAMMap.exe",
+        "Length":  "659728",
+        "LastWriteTime":  "\/Date(1561762380000)\/",
+        "Updated":  "29/06/2019"
+    },
+    {
+        "Name":  "readme.txt",
+        "Length":  "7903",
+        "LastWriteTime":  "\/Date(1323252420000)\/",
+        "Updated":  "07/12/2011"
+    },
+    {
+        "Name":  "RegDelNull.exe",
+        "Length":  "149168",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "RegDelNull64.exe",
+        "Length":  "164024",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Reghide.exe",
+        "Length":  "146232",
+        "LastWriteTime":  "\/Date(1162411500000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "regjump.exe",
+        "Length":  "117920",
+        "LastWriteTime":  "\/Date(1454447040000)\/",
+        "Updated":  "02/02/2016"
+    },
+    {
+        "Name":  "RootkitRevealer.chm",
+        "Length":  "102160",
+        "LastWriteTime":  "\/Date(1133961540000)\/",
+        "Updated":  "07/12/2005"
+    },
+    {
+        "Name":  "RootkitRevealer.exe",
+        "Length":  "334720",
+        "LastWriteTime":  "\/Date(1162382820000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "ru.exe",
+        "Length":  "142472",
+        "LastWriteTime":  "\/Date(1467761340000)\/",
+        "Updated":  "06/07/2016"
+    },
+    {
+        "Name":  "ru64.exe",
+        "Length":  "160920",
+        "LastWriteTime":  "\/Date(1467761340000)\/",
+        "Updated":  "06/07/2016"
+    },
+    {
+        "Name":  "sdelete.exe",
+        "Length":  "235560",
+        "LastWriteTime":  "\/Date(1544195100000)\/",
+        "Updated":  "07/12/2018"
+    },
+    {
+        "Name":  "sdelete64.exe",
+        "Length":  "246528",
+        "LastWriteTime":  "\/Date(1544195100000)\/",
+        "Updated":  "07/12/2018"
+    },
+    {
+        "Name":  "ShareEnum.exe",
+        "Length":  "260976",
+        "LastWriteTime":  "\/Date(1162382820000)\/",
+        "Updated":  "01/11/2006"
+    },
+    {
+        "Name":  "ShellRunas.exe",
+        "Length":  "103464",
+        "LastWriteTime":  "\/Date(1204131060000)\/",
+        "Updated":  "27/02/2008"
+    },
+    {
+        "Name":  "sigcheck64.exe",
+        "Length":  "1128824",
+        "LastWriteTime":  "\/Date(1567707240000)\/",
+        "Updated":  "05/09/2019"
+    },
+    {
+        "Name":  "streams.exe",
+        "Length":  "135840",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "streams64.exe",
+        "Length":  "153768",
+        "LastWriteTime":  "\/Date(1467229440000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "strings.exe",
+        "Length":  "149152",
+        "LastWriteTime":  "\/Date(1467761340000)\/",
+        "Updated":  "06/07/2016"
+    },
+    {
+        "Name":  "sync.exe",
+        "Length":  "143512",
+        "LastWriteTime":  "\/Date(1467229500000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "sync64.exe",
+        "Length":  "158360",
+        "LastWriteTime":  "\/Date(1467229500000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Sysmon.exe",
+        "Length":  "3712376",
+        "LastWriteTime":  "\/Date(1576088640000)\/",
+        "Updated":  "11/12/2019"
+    },
+    {
+        "Name":  "Sysmon64.exe",
+        "Length":  "2018384",
+        "LastWriteTime":  "\/Date(1576088640000)\/",
+        "Updated":  "11/12/2019"
+    },
+    {
+        "Name":  "tcpvcon.exe",
+        "Length":  "199544",
+        "LastWriteTime":  "\/Date(1280321220000)\/",
+        "Updated":  "28/07/2010"
+    },
+    {
+        "Name":  "tcpview.chm",
+        "Length":  "41074",
+        "LastWriteTime":  "\/Date(1278075780000)\/",
+        "Updated":  "02/07/2010"
+    },
+    {
+        "Name":  "Tcpview.exe",
+        "Length":  "300832",
+        "LastWriteTime":  "\/Date(1311586800000)\/",
+        "Updated":  "25/07/2011"
+    },
+    {
+        "Name":  "TCPVIEW.HLP",
+        "Length":  "7983",
+        "LastWriteTime":  "\/Date(1030961580000)\/",
+        "Updated":  "02/09/2002"
+    },
+    {
+        "Name":  "Testlimit.exe",
+        "Length":  "231584",
+        "LastWriteTime":  "\/Date(1479420840000)\/",
+        "Updated":  "17/11/2016"
+    },
+    {
+        "Name":  "Testlimit64.exe",
+        "Length":  "243888",
+        "LastWriteTime":  "\/Date(1479420840000)\/",
+        "Updated":  "17/11/2016"
+    },
+    {
+        "Name":  "Vmmap.chm",
+        "Length":  "51747",
+        "LastWriteTime":  "\/Date(1560288060000)\/",
+        "Updated":  "11/06/2019"
+    },
+    {
+        "Name":  "vmmap.exe",
+        "Length":  "1307904",
+        "LastWriteTime":  "\/Date(1560288060000)\/",
+        "Updated":  "11/06/2019"
+    },
+    {
+        "Name":  "Volumeid.exe",
+        "Length":  "233640",
+        "LastWriteTime":  "\/Date(1467229500000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "Volumeid64.exe",
+        "Length":  "169648",
+        "LastWriteTime":  "\/Date(1467229500000)\/",
+        "Updated":  "29/06/2016"
+    },
+    {
+        "Name":  "whois.exe",
+        "Length":  "398192",
+        "LastWriteTime":  "\/Date(1576088640000)\/",
+        "Updated":  "11/12/2019"
+    },
+    {
+        "Name":  "whois64.exe",
+        "Length":  "523128",
+        "LastWriteTime":  "\/Date(1576088640000)\/",
+        "Updated":  "11/12/2019"
+    },
+    {
+        "Name":  "Winobj.exe",
+        "Length":  "729464",
+        "LastWriteTime":  "\/Date(1297679820000)\/",
+        "Updated":  "14/02/2011"
+    },
+    {
+        "Name":  "WINOBJ.HLP",
+        "Length":  "7653",
+        "LastWriteTime":  "\/Date(946545960000)\/",
+        "Updated":  "30/12/1999"
+    },
+    {
+        "Name":  "ZoomIt.exe",
+        "Length":  "1060216",
+        "LastWriteTime":  "\/Date(1576088640000)\/",
+        "Updated":  "11/12/2019"
+    }
+]
