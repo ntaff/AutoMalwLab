@@ -1,6 +1,6 @@
 # Script pour automatiser la création d'un environnement d'analyse de malware
 # version 1.0
-# Auteur : Nicolas TAFFOUREAU - DCPJ
+# Auteur : - Nicolas TAFFOUREAU -
 
 . $PSScriptRoot\GetSysinternals.ps1
 . $PSScriptRoot\UpdateSysinternals.ps1
