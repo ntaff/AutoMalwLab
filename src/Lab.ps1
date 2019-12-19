@@ -2,9 +2,12 @@
 # version 1.0
 # Auteur : Nicolas TAFFOUREAU - DCPJ
 
+. $PSScriptRoot\GetSysinternals.ps1
+. $PSScriptRoot\UpdateSysinternals.ps1
+. $PSScriptRoot\GetFile.ps1
 
 # Installation des outils Sysinternal
-Update-Sysinternals "$PSScriptRoot\Testingfolder"
+Update-Sysinternals "$PSScriptRoot\Sysinternals"
 
 #****************************************************************************************#
 
