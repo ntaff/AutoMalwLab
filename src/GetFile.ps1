@@ -1,3 +1,7 @@
+# Script pour automatiser la création d'un environnement d'analyse de malware
+# version 1.0
+# Auteur : - Nicolas TAFFOUREAU -
+
 function Get-File {
     [CmdLetBinding()]
     param(
