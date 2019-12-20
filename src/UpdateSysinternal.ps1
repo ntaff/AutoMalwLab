@@ -1,7 +1,3 @@
-# Script pour automatiser la création d'un environnement d'analyse de malware
-# version 1.0
-# Auteur : - Nicolas TAFFOUREAU -
-
 function Update-Sysinternals {
     [CmdLetBinding()]
     param(
@@ -9,11 +5,11 @@ function Update-Sysinternals {
         [ValidateNotNullOrEmpty()]
         [string]$InstallLocation,
         [switch]$Force,
-        [switch]$IgnoreDownloadErrors
+        [switch]$IgnoreBlacklist
     )
 
     $BlacklistPath = Join-Path -Path $PSScriptRoot -ChildPath 'Blacklist.json'
-    $DownloadErrors = @()
+    $Blackliste = @()
 
     if (-Not (Test-Path -Path $InstallLocation)) {
         Write-Output "Le chemin d'accès $InstallLocation n'existe pas."
@@ -33,7 +29,7 @@ function Update-Sysinternals {
         }
     }
 
-    if (-Not $IgnoreDownloadErrors) {
+    if (-Not $IgnoreBlacklist) {
         Write-Verbose -Message 'Recherche de fichier blacklistés...'
         $SkipFiles = Get-Content -Path $BlacklistPath -ErrorAction SilentlyContinue | ConvertFrom-Json
     }
@@ -86,17 +82,17 @@ function Update-Sysinternals {
             $Count++
         }
         catch {
-            if (-Not $IgnoreDownloadErrors) {
+            if (-Not $IgnoreBlacklist) {
                 Write-Warning -Message "Impossible de télécharger $($Tool.Name)"
-                $DownloadErrors += $Tool
+                $Blackliste += $Tool
             }
         }
     }
     $ProgressPreference = $OriginalProgressPreference
 
-    if ($DownloadErrors) {
+    if ($Blackliste) {
         Write-Warning -Message "Des erreurs de téléchargement ont été rencontrées."
-        $Response = Read-Host -Prompt "Voulez vous ignorer ces fichiers la prochaine fois ? (O/N)"
+        $Response = Read-Host -Prompt "Voulez vous mettre ces fichiers dans la blacklist ? (O/N)"
 
         if ($Response -eq 'O') {
             $DownloadFiles | Select-Object -Property Name,Length,LastWriteTime,Updated | ConvertTo-Json |
